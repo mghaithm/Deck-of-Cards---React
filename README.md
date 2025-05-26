@@ -4,7 +4,7 @@
 A simple React app that simulates a deck of playing cards. Draw, shuffle, and reset the deck dynamically using React state and effects.
 
 ## 📸 Preview
-![Deck of Cards Preview](.preview.gif)  
+![Deck of Cards Preview](./preview.gif)  
 
 ## 🚀 Features
 - Draw random cards from a standard deck.
